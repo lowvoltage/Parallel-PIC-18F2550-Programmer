@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by PcbNew date = Wed 11 Jul 2012 06:19:59 PM EEST
+
+BeginCmp
+TimeStamp = /4FFD6DC5;
+Reference = C1;
+ValeurCmp = 47uF_16V;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD6872;
+Reference = D1;
+ValeurCmp = 1N4148;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD68E3;
+Reference = D2;
+ValeurCmp = 1N4148;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD68E9;
+Reference = D3;
+ValeurCmp = 1N4148;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD68EF;
+Reference = D4;
+ValeurCmp = 1N4148;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD6922;
+Reference = D5;
+ValeurCmp = 1N4148;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD6928;
+Reference = D6;
+ValeurCmp = 1N4148;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD692E;
+Reference = D7;
+ValeurCmp = 1N4148;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD6934;
+Reference = D8;
+ValeurCmp = 1N4148;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD6790;
+Reference = J1;
+ValeurCmp = DB25;
+IdModule  = DB25MC;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD7344;
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD6B25;
+Reference = U1;
+ValeurCmp = PIC18F2550;
+IdModule  = DIP-28__300_ELL;
+EndCmp
+
+EndListe
