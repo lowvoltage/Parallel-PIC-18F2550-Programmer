@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Wed 11 Jul 2012 03:10:14 PM EEST
+EESchema Schematic File Version 2  date Thu 12 Jul 2012 12:05:29 AM EEST
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -35,13 +35,13 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "Parallel PIC 18F2550 Programmer"
 Date "11 jul 2012"
-Rev ""
+Rev "0.1"
 Comp ""
-Comment1 ""
-Comment2 ""
-Comment3 ""
+Comment1 "KiCAD schematic and PCB layout by Dimitar Kovachev"
+Comment2 "http://www.foxdelta.com/products/art2003.htm"
+Comment3 "Original project by Dinesh Gajjar"
 Comment4 ""
 $EndDescr
 $Comp

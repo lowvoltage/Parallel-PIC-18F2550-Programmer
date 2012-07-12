@@ -1,0 +1,15 @@
+Parallel port (LPT) programmer for PIC 18F2550
+
+Original 'art2003' project by Dinesh Gajjar
+http://www.foxdelta.com/products/art2003.htm
+
+KiCAD schematic and PCB layout by Dimitar Kovachev
+http://lowvoltage.wordpress.com/
+
+
+
+Released under the Creative Commons Attribution Share-Alike 3.0 license
+http://creativecommons.org/licenses/by-sa/3.0/
+
+Used KiCAD libraries and 3D models:
+http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm

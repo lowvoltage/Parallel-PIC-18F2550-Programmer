@@ -1,6 +1,6 @@
-update=Wed 11 Jul 2012 03:05:54 PM EEST
+update=Wed 11 Jul 2012 11:17:01 PM EEST
 version=1
-last_client=kicad
+last_client=pcbnew
 [eeschema]
 version=1
 LibDir=
@@ -68,9 +68,12 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
+[general]
+version=1
 [pcbnew]
 version=1
-PadDrlX=320
+LastNetListRead=
+PadDrlX=315
 PadDimH=600
 PadDimV=600
 BoardThickness=630
@@ -81,10 +84,9 @@ TxtModH=600
 TxtModW=120
 VEgarde=100
 DrawLar=150
-EdgeLar=150
+EdgeLar=0
 TxtLar=120
 MSegLar=150
-LastNetListRead=
 [pcbnew/libraries]
 LibDir=
 LibName1=sockets
@@ -98,5 +100,6 @@ LibName8=led
 LibName9=dip_sockets
 LibName10=pga_sockets
 LibName11=valves
-[general]
-version=1
+LibName12=additional/w_capacitors
+LibName13=additional/lowvoltage
+LibName14=additional/w_conn_d-sub
