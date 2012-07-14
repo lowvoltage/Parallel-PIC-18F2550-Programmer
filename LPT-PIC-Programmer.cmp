@@ -1,10 +1,10 @@
-Cmp-Mod V01 Created by PcbNew date = Wed 11 Jul 2012 11:33:34 PM EEST
+Cmp-Mod V01 Created by PcbNew date = Sat 14 Jul 2012 01:20:27 PM EEST
 
 BeginCmp
 TimeStamp = /4FFD6DC5;
 Reference = C1;
 ValeurCmp = 47uF_16V;
-IdModule  = CP_5x11mm;
+IdModule  = LV_CP_5x11mm;
 EndCmp
 
 BeginCmp

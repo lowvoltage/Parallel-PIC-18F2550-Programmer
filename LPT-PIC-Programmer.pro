@@ -1,4 +1,4 @@
-update=Wed 11 Jul 2012 11:17:01 PM EEST
+update=Sat 14 Jul 2012 01:24:08 PM EEST
 version=1
 last_client=pcbnew
 [eeschema]
@@ -82,9 +82,9 @@ TxtPcbH=600
 TxtModV=600
 TxtModH=600
 TxtModW=120
-VEgarde=100
+VEgarde=40
 DrawLar=150
-EdgeLar=0
+EdgeLar=10
 TxtLar=120
 MSegLar=150
 [pcbnew/libraries]
@@ -100,6 +100,5 @@ LibName8=led
 LibName9=dip_sockets
 LibName10=pga_sockets
 LibName11=valves
-LibName12=additional/w_capacitors
-LibName13=additional/lowvoltage
-LibName14=additional/w_conn_d-sub
+LibName12=../KiCAD-Libraries/lowvoltage
+LibName13=additional/w_conn_d-sub
