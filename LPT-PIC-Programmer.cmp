@@ -74,7 +74,7 @@ BeginCmp
 TimeStamp = /4FFD7344;
 Reference = R1;
 ValeurCmp = 220;
-IdModule  = R4;
+IdModule  = LV_R4;
 EndCmp
 
 BeginCmp
